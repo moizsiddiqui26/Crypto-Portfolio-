@@ -1,6 +1,3 @@
-# =====================================
-# Crypto Investment Manager (Single App)
-# =====================================
 
 import streamlit as st
 import pandas as pd
